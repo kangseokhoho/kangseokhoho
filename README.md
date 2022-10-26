@@ -14,7 +14,7 @@
 - 네트워크관리사 2급
 - 스마트홈 관리사
 
-# 👋자격증 보유현황👋
+# 👋Instagram👋
 <a href="https://www.instagram.com/seok_hoho__/">
     <img 
         src="http://img.shields.io/badge/Instagram?style=flat&logo=Instagram&link=https://www.instagram.com/seokho_hoho__/"
