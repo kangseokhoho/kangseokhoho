@@ -1,4 +1,4 @@
-# 주요정보 👋
+# 👋주요정보👋
 
 ![kangseokhoho](C:\Users\Administrator\Desktop\게임\kangseokhoho.JPG)
 
@@ -8,3 +8,8 @@
 - email : elwlsl2040@naver.com
 - github : https://github.com/kangseokhohoPermalink
 - Resume Link : https://kangseokhoho.github.io/Permalink[kangseokhoho.md]
+
+# 👋자격증 보유현황👋
+- 자동차운전면허증 1종보통
+- 네트워크관리사 2급
+- 스마트홈 관리사
