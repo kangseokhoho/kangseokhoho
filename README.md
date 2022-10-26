@@ -7,7 +7,7 @@
 - 소속 : 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공
 - email : elwlsl2040@naver.com
 - github : https://github.com/kangseokhohoPermalink
-- Resume Link : https://kangseokhoho.github.io/Permalink[kangseokhoho.md]
+- Resume Link : https://kangseokhoho.github.io/
 
 # 👋자격증 보유현황👋
 - 자동차운전면허증 1종보통
